@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p> <a href="webapi/myresource"> jersy</a></p>
+<p> <a href="webapi1/myresource"> jersy</a></p>
 <p>ggggggggggggggggg</p>
 
 </body>
